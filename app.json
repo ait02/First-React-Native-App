@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "rn-starter-1",
     "slug": "rn-starter-1",
+=======
+    "name": "TodoApp",
+    "slug": "TodoApp",
+>>>>>>> 2622a63c0644956dd87cee224cc87451112cb1e0
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,7 +22,12 @@
       "**/*"
     ],
     "ios": {
+<<<<<<< HEAD
       "supportsTablet": true
+=======
+      "supportsTablet": true,
+      "bundleIdentifier": "1"
+>>>>>>> 2622a63c0644956dd87cee224cc87451112cb1e0
     },
     "android": {
       "adaptiveIcon": {
